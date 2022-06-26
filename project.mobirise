@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Jacqueline.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -64,11 +64,11 @@
     "cookiesAlert": false,
     "gdpr": false,
     "pwa-switcher": true,
-    "uniqCompNum": 0,
+    "uniqCompNum": 1,
     "versionPublish": "5.6.8"
   },
   "pages": {
-    "Jacqueline.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Jacqueline",
